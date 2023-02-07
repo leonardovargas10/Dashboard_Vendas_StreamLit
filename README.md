@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste na criação de um Dashboard simples utilizando a Linguagem Python e o Framework StreamLit.
+Este projeto consiste na criação de um Dashboard simples para a Área de Vendas, utilizando a Linguagem Python e o Framework StreamLit.
 
 ## Fundamentação Teórica
 
